@@ -2,7 +2,7 @@
 - 👀 interested in the tech industry
 - 🌱 currently learning web-development combined with git and github
 - 💞️ looking to collaborate on basic web-dev projects to sharpen coding skills
-- 📫 you can get ahold of me via email digitalwrldsa@gmail.com
+- 📫 you can get ahold of me via email code6od@gmail.com
 - 
 
 <!---
